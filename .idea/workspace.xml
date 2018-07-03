@@ -28,11 +28,11 @@
       <file leaf-file-name="index.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+            <state relative-caret-position="1824">
+              <caret line="96" column="31" lean-forward="false" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="31" />
               <folding>
                 <element signature="e#0#68#0" expanded="true" />
-                <marker date="1530591497000" expanded="true" signature="1726:1867" ph="..." />
+                <marker date="1530591904000" expanded="true" signature="1761:1902" ph="..." />
               </folding>
             </state>
           </provider>
@@ -90,6 +90,7 @@
       <find>partial</find>
       <find>target</find>
       <find>todoTemplate</find>
+      <find>prevent</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -295,12 +296,12 @@
       <updated>1530514321927</updated>
       <workItem from="1530514323898" duration="12637000" />
       <workItem from="1530550622280" duration="3178000" />
-      <workItem from="1530582494263" duration="5974000" />
+      <workItem from="1530582494263" duration="6391000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21789000" />
+    <option name="totallyTimeSpent" value="22206000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="804" width="2560" height="1417" extended-state="6" />
@@ -394,7 +395,7 @@
           <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
           <folding>
             <element signature="e#0#68#0" expanded="true" />
-            <marker date="1530591497000" expanded="true" signature="1726:1867" ph="..." />
+            <marker date="1530591904000" expanded="true" signature="1761:1902" ph="..." />
           </folding>
         </state>
       </provider>
@@ -421,7 +422,7 @@
           <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
           <folding>
             <element signature="e#0#68#0" expanded="true" />
-            <marker date="1530591497000" expanded="true" signature="1726:1867" ph="..." />
+            <marker date="1530591904000" expanded="true" signature="1761:1902" ph="..." />
           </folding>
         </state>
       </provider>
@@ -482,11 +483,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        <state relative-caret-position="1824">
+          <caret line="96" column="31" lean-forward="false" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="31" />
           <folding>
             <element signature="e#0#68#0" expanded="true" />
-            <marker date="1530591497000" expanded="true" signature="1726:1867" ph="..." />
+            <marker date="1530591904000" expanded="true" signature="1761:1902" ph="..." />
           </folding>
         </state>
       </provider>

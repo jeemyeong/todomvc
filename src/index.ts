@@ -7,9 +7,9 @@ const addEventListener = (type: string, fn: any) => (element: EventTarget) => el
 const isEnter = (e: KeyboardEvent) => e.keyCode == 13;
 const verifyKeyboardEvent = (e: KeyboardEvent) =>
     isEnter(e) && (e.target as HTMLInputElement).value.length > 0;
-const eventToOption = (e: KeyboardEvent) => {
+const eventToOption = (e: KeyboardEvent, pred: (e: KeyboardEvent) => boolean = () => true) => {
   e.preventDefault();
-  return (verifyKeyboardEvent(e) ? new Some(e) : None.value);
+  return (pred(e) ? new Some(e) : None.value);
 };
 const keyboardEventToValue = (e: KeyboardEvent) => (e.target as HTMLInputElement).value;
 const createElem = (tagName: string, template: string) => {
@@ -65,7 +65,7 @@ const toggleClassIntoElem = (className: string) => (elem: Element) => {
 
       const addTodo = (e: KeyboardEvent) =>
         fromNullable(e)
-          .chain(eventToOption)
+          .chain(e => eventToOption(e, verifyKeyboardEvent))
           .map(keyboardEventToValue)
           .map(createTodoElem)
           .map(tap(appendIntoTodoList));
@@ -79,6 +79,7 @@ const toggleClassIntoElem = (className: string) => (elem: Element) => {
     (function deleteTodo(todoList: Option<Element>){
       const deleteTodo = (e: KeyboardEvent) =>
         fromNullable(e)
+          .chain(eventToOption)
           .filter(e => (isEventTarget(e, "button", "destroy")))
           .map(getTarget)
           .map(target => target.closest("li"))
@@ -93,6 +94,7 @@ const toggleClassIntoElem = (className: string) => (elem: Element) => {
     (function checkTodo(todoList: Option<Element>){
       const checkTodo = (e: KeyboardEvent) =>
         fromNullable(e)
+          .chain(eventToOption)
           .filter(e => (isEventTarget(e, "input", "toggle")))
           .map(getTarget)
           .map(target => target.closest("li"))
