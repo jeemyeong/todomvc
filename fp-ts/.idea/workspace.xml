@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70be8c2f-d175-4a27-9ccb-ebb6a4062443" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/index.ts" afterPath="$PROJECT_DIR$/src/index.ts" />
-    </list>
+    <list default="true" id="70be8c2f-d175-4a27-9ccb-ebb6a4062443" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,8 +25,8 @@
       <file leaf-file-name="index.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+            <state relative-caret-position="950">
+              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding>
                 <element signature="e#0#68#0" expanded="true" />
                 <marker date="1530613145000" expanded="true" signature="1821:1962" ph="..." />
@@ -359,12 +356,12 @@
       <updated>1530514321927</updated>
       <workItem from="1530514323898" duration="12637000" />
       <workItem from="1530550622280" duration="3178000" />
-      <workItem from="1530582494263" duration="23439000" />
+      <workItem from="1530582494263" duration="23534000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39254000" />
+    <option name="totallyTimeSpent" value="39349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="804" width="2560" height="1417" extended-state="6" />
@@ -586,8 +583,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
+        <state relative-caret-position="950">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
             <element signature="e#0#68#0" expanded="true" />
             <marker date="1530613145000" expanded="true" signature="1821:1962" ph="..." />
