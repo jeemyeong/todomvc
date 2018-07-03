@@ -18,8 +18,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="515">
+              <caret line="42" column="43" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -28,12 +28,64 @@
       <file leaf-file-name="index.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1824">
-              <caret line="96" column="31" lean-forward="false" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="31" />
+            <state relative-caret-position="437">
+              <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
               <folding>
                 <element signature="e#0#68#0" expanded="true" />
-                <marker date="1530591904000" expanded="true" signature="1761:1902" ph="..." />
+                <marker date="1530613145000" expanded="true" signature="1821:1962" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function.d.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/function.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="99" column="24" lean-forward="false" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Applicative.d.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/Applicative.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Array.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/Array.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3326">
+              <caret line="685" column="0" lean-forward="false" selection-start-line="685" selection-start-column="0" selection-end-line="685" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Array.d.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/Array.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1142">
+              <caret line="353" column="21" lean-forward="false" selection-start-line="353" selection-start-column="21" selection-end-line="353" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.d.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/@types/jasmine/index.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="175" column="14" lean-forward="false" selection-start-line="175" selection-start-column="14" selection-end-line="175" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -41,8 +93,8 @@
       <file leaf-file-name="Option.d.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/Option.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+            <state relative-caret-position="416">
+              <caret line="100" column="4" lean-forward="false" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -61,8 +113,8 @@
       <file leaf-file-name="lib.es6.d.ts" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="9269" column="4" lean-forward="false" selection-start-line="9269" selection-start-column="4" selection-end-line="9269" selection-end-column="4" />
+            <state relative-caret-position="416">
+              <caret line="9340" column="4" lean-forward="false" selection-start-line="9340" selection-start-column="4" selection-end-line="9340" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -72,25 +124,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>css</find>
-      <find>chain</find>
-      <find>: A;</find>
-      <find>value:</find>
-      <find>EventTarget</find>
-      <find>InputEvent</find>
-      <find>Event</find>
-      <find>Key</find>
       <find>after(</find>
       <find>unorder</find>
       <find>curry</find>
       <find>todoList</find>
       <find>addEvent</find>
-      <find>addTodo</find>
       <find>classList</find>
-      <find>partial</find>
-      <find>target</find>
       <find>todoTemplate</find>
       <find>prevent</find>
+      <find>console.log</find>
+      <find>checkAllTodo</find>
+      <find>label</find>
+      <find>deleteTodo</find>
+      <find>lists</find>
+      <find>checked</find>
+      <find>clear</find>
+      <find>NodeListOf</find>
+      <find>from</find>
+      <find>fromN</find>
+      <find>[0]</find>
+      <find>checkTodo</find>
+      <find>target</find>
+      <find>style</find>
+      <find>todoList.map(c($)('li'))</find>
+      <find>remove(</find>
+      <find>getAllTodoList</find>
+      <find>class</find>
+      <find>toggle</find>
+      <find>selected</find>
+      <find>partial</find>
+      <find>addTodo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -296,12 +359,12 @@
       <updated>1530514321927</updated>
       <workItem from="1530514323898" duration="12637000" />
       <workItem from="1530550622280" duration="3178000" />
-      <workItem from="1530582494263" duration="6391000" />
+      <workItem from="1530582494263" duration="23439000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22206000" />
+    <option name="totallyTimeSpent" value="39254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="804" width="2560" height="1417" extended-state="6" />
@@ -395,7 +458,7 @@
           <caret line="37" column="16" lean-forward="false" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
           <folding>
             <element signature="e#0#68#0" expanded="true" />
-            <marker date="1530591904000" expanded="true" signature="1761:1902" ph="..." />
+            <marker date="1530613145000" expanded="true" signature="1821:1962" ph="..." />
           </folding>
         </state>
       </provider>
@@ -422,7 +485,7 @@
           <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
           <folding>
             <element signature="e#0#68#0" expanded="true" />
-            <marker date="1530591904000" expanded="true" signature="1761:1902" ph="..." />
+            <marker date="1530613145000" expanded="true" signature="1821:1962" ph="..." />
           </folding>
         </state>
       </provider>
@@ -442,9 +505,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/Monoid.d.ts" />
-    <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/Array.d.ts" />
     <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/Either.d.ts" />
-    <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/function.d.ts" />
     <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/function.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/Either.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/Option.js" />
@@ -457,37 +518,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/jasmine/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="432">
+          <caret line="175" column="14" lean-forward="false" selection-start-line="175" selection-start-column="14" selection-end-line="175" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/Option.d.ts">
+    <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/Applicative.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+        <state relative-caret-position="425">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/Array.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1142">
+          <caret line="353" column="21" lean-forward="false" selection-start-line="353" selection-start-column="21" selection-end-line="353" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/Array.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3326">
+          <caret line="685" column="0" lean-forward="false" selection-start-line="685" selection-start-column="0" selection-end-line="685" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/function.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="99" column="24" lean-forward="false" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="9269" column="4" lean-forward="false" selection-start-line="9269" selection-start-column="4" selection-end-line="9269" selection-end-column="4" />
+        <state relative-caret-position="416">
+          <caret line="9340" column="4" lean-forward="false" selection-start-line="9340" selection-start-column="4" selection-end-line="9340" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/fp-ts/lib/Option.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="100" column="4" lean-forward="false" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="42" column="43" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1824">
-          <caret line="96" column="31" lean-forward="false" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="31" />
+        <state relative-caret-position="437">
+          <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
           <folding>
             <element signature="e#0#68#0" expanded="true" />
-            <marker date="1530591904000" expanded="true" signature="1761:1902" ph="..." />
+            <marker date="1530613145000" expanded="true" signature="1821:1962" ph="..." />
           </folding>
         </state>
       </provider>
