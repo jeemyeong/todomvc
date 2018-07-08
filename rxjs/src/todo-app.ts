@@ -3,6 +3,7 @@ import { fromEvent } from "rxjs/internal/observable/fromEvent";
 import { filter, map } from "rxjs/operators";
 import { pluck } from "rxjs/internal/operators";
 import * as R from 'ramda';
+import * as Rx from "rxjs/index";
 
 const todoTemplete = (todo: string): JQuery.htmlString => (
     `<li>
