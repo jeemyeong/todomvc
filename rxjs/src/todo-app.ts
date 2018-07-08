@@ -1,8 +1,8 @@
 import * as $ from 'jquery';
 import { fromEvent } from "rxjs/internal/observable/fromEvent";
 import { filter, map } from "rxjs/operators";
-import * as R from 'ramda';
 import { pluck } from "rxjs/internal/operators";
+import * as R from 'ramda';
 
 const todoTemplete = (todo: string): JQuery.htmlString => (
     `<li>
